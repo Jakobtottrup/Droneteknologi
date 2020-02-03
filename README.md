@@ -1,7 +1,8 @@
 # Droneteknologi
 Repository for project work for RMUAST-F20 course
 
-Team 6
+### Team 6  
+
 [Sebastian Andresen](mailto:seand16@student.sdu.dk)  
 
 [Gustav Bork](mailto:gubor16@student.sdu.dk)  
